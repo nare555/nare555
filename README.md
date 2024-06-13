@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nare555
+- 👋 Hi, I’m Nar
 - 👀 I’m interested in product design
 - 🌱 I’m currently learning neuroscience
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - on Slack
 - 😄 Pronouns: she, her
 - ⚡ Fun fact: ...
 
